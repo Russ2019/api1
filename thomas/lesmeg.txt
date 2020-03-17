@@ -1,0 +1,26 @@
+TUTORIAL eapi
+=============
+- from bitfumes: https://github.com/bitfumes/api
+
+
+setup
+-----
+- cd projects
+- laravel new eapi
+- php artisan serve
+- 127.0.0.1:8000
+- (edit web.php, to see changes on served page)
+- atom .
+- resources/views/welcome.blade.php
+  (add en extra menu pointa MYGITHUB, EAPI)
+
+
+Videos:
+-------
+#3 
+- git remote add origin https://github.com/Russ2019/test
+- git remote -v
+- git add .
+- git status
+- git commit -m "#3"
+- git push origin master
